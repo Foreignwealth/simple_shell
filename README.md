@@ -62,7 +62,7 @@ Our shell has support for the following built-in commands:
 | help [built-in]     | Read documentation for a built-in.                                                        |
 
 
- ## Installation : Getting HSH
+ ## Installation : Getting test
 
 Clone the below repository and compile the files into an executable using the GCC compiler.
 ```
