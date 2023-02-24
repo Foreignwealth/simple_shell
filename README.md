@@ -21,7 +21,7 @@ This program was written entirely in C Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2022 by [**Olumba Patrick**](https://github.com/patrickolumba) and [**opeyemi oladoyinbo**](https://github.com/Foreignwealth) </br>
+Copyright (C) 2022 by [**Olumba Patrick**](https://github.com/olumbapatrick) and [**Oladeyinbo Opeyemi**](https://github.com/foreignwealth) </br>
 All rights reserved
 
  ## Description :
@@ -66,11 +66,10 @@ Our shell has support for the following built-in commands:
 
 Clone the below repository and compile the files into an executable using the GCC compiler.
 ```
-https://github.com/Foreignwealth/simple_shell
+https://github.com/Foreignwealth/simple_shell.git
 ```
 
 
-
 ## Contributors :
-* [**Sserunkuuma ibrahim**](https://github.com/patrickolumba)
-* [**Nakivumbi Lydia**](https://github.com/foreignwealth)
+* [**Olumba Patrick**](https://github.com/olumbapatrick)
+* [**Nakivumbi Lydia**](https://github.com/Foreignwealth)
