@@ -72,4 +72,4 @@ https://github.com/Foreignwealth/simple_shell.git
 
 ## Contributors :
 * [**Olumba Patrick**](https://github.com/olumbapatrick)
-* [**Oladeyinbo **](https://github.com/Foreignwealth)
+* [**Oladeyinbo**](https://github.com/Foreignwealth)
